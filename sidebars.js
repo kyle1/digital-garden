@@ -27,7 +27,7 @@ const sidebars = {
     {
       type: "category",
       label: "Python",
-      items: ["python/web-scraping"],
+      items: ["python/http-clients", "python/web-scraping"],
     },
     {
       type: "category",
