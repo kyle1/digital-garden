@@ -42,6 +42,11 @@ const sidebars = {
           items: ["web-dev/react/guides", "web-dev/react/codebases"],
         },
         "web-dev/theming",
+        {
+          type: "category",
+          label: "UI",
+          items: ["web-dev/ui/navigation"]
+        }
       ],
     },
   ],
