@@ -45,7 +45,7 @@ const sidebars = {
         {
           type: "category",
           label: "UI",
-          items: ["web-dev/ui/navigation"]
+          items: ["web-dev/ui/design-systems", "web-dev/ui/navigation"]
         }
       ],
     },
