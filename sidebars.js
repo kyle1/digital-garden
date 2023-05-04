@@ -26,6 +26,11 @@ const sidebars = {
     },
     {
       type: "category",
+      label: "JavaScript",
+      items: ["javascript/packaging"],
+    },
+    {
+      type: "category",
       label: "Python",
       items: ["python/http-clients", "python/web-scraping"],
     },
