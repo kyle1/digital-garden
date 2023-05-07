@@ -34,6 +34,7 @@ const sidebars = {
       label: "Python",
       items: ["python/http-clients", "python/web-scraping"],
     },
+    "ruby",
     {
       type: "category",
       label: "Web Dev",
