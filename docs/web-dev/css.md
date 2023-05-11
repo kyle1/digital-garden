@@ -5,6 +5,12 @@ description: Cascading Style Sheets
 
 # CSS
 
+## General
+
+### Websites
+
+- [Ahmad Shadeed](https://ishadeed.com/) - A multidisciplinary designer with an eye for details.
+
 ## Utility-first CSS
 
 ### Libraries

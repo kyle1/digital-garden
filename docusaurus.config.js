@@ -38,7 +38,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
+          sidebarPath: require.resolve("./sidebars.ts"),
           // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/kyle1/digital-garden/tree/main/",
         },
