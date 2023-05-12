@@ -42,6 +42,7 @@ const sidebars = {
         "web-dev/blogs",
         "web-dev/css",
         "web-dev/data-viz",
+        "web-dev/general",
         {
           type: "category",
           label: "React",
