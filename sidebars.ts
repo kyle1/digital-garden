@@ -22,7 +22,7 @@ const sidebars = {
     {
       type: "category",
       label: ".NET",
-      items: ["dotnet/async-programming"],
+      items: ["dotnet/async-programming", "dotnet/general"],
     },
     {
       type: "category",
