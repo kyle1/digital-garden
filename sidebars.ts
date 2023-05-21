@@ -32,7 +32,7 @@ const sidebars = {
     {
       type: "category",
       label: "Python",
-      items: ["python/http-clients", "python/web-scraping"],
+      items: ["python/articles", "python/http-clients", "python/packaging", "python/web-scraping"],
     },
     "ruby",
     {
