@@ -5,6 +5,10 @@ description: General .NET
 
 # General
 
+## Content Creators
+
+- Nick Chapsas - Great educational videos on .NET topics [[YouTube](https://www.youtube.com/@nickchapsas)]
+
 ## Articles
 
 - [When to Use and Not Use Variable Type var in C#](https://intellitect.com/blog/when-to-use-and-not-use-var-in-c/)
