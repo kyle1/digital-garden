@@ -22,17 +22,17 @@ const sidebars = {
     {
       type: "category",
       label: ".NET",
-      items: ["dotnet/async-programming", "dotnet/general"],
+      items: ["dotnet/async-programming", "dotnet/general", "dotnet/orms"],
     },
     {
       type: "category",
       label: "JavaScript",
-      items: ["javascript/packaging"],
+      items: ["javascript/general", "javascript/packaging"],
     },
     {
       type: "category",
       label: "Python",
-      items: ["python/http-clients", "python/web-scraping"],
+      items: ["python/articles", "python/http-clients", "python/packaging", "python/web-scraping"],
     },
     "ruby",
     {
