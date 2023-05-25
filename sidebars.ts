@@ -27,7 +27,7 @@ const sidebars = {
     {
       type: "category",
       label: "JavaScript",
-      items: ["javascript/packaging"],
+      items: ["javascript/general", "javascript/packaging"],
     },
     {
       type: "category",
