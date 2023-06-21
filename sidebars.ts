@@ -53,6 +53,7 @@ const sidebars = {
           type: "category",
           label: "UI",
           items: [
+            "web-dev/ui/data-tables",
             "web-dev/ui/design-systems",
             {
               type: "category",
