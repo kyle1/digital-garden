@@ -1,6 +1,6 @@
 ---
 title: General
-description: General .NET
+description: General JavaScript
 ---
 
 # General
