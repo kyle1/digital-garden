@@ -12,4 +12,4 @@ description: Asynchronous programming in .NET
 ## Prefer async/await over directly returning Task
 
 - [Async Guidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md#prefer-asyncawait-over-directly-returning-task) - David Fowler
-- [Settling the Biggest Await Async Debate in .NET](https://www.youtube.com/watch?v=aaC16Fv2zes) - Nick Chaspas
+- [Settling the Biggest Await Async Debate in .NET](https://www.youtube.com/watch?v=aaC16Fv2zes) - Nick Chapsas
