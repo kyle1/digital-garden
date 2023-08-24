@@ -22,7 +22,20 @@ const sidebars = {
     {
       type: "category",
       label: ".NET",
-      items: ["dotnet/async-programming", "dotnet/general", "dotnet/orms", "dotnet/strings"],
+      items: [
+        "dotnet/apis",
+        "dotnet/async-programming",
+        "dotnet/enums",
+        "dotnet/general",
+        "dotnet/orms",
+        "dotnet/records",
+        "dotnet/strings",
+      ],
+    },
+    {
+      type: "category",
+      label: "Data",
+      items: ["data/json"],
     },
     {
       type: "category",
