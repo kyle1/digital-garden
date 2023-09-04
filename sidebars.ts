@@ -27,6 +27,7 @@ const sidebars = {
         "dotnet/async-programming",
         "dotnet/enums",
         "dotnet/general",
+        { type: "category", label: "Libraries", items: ["dotnet/libraries/mediatr"] },
         "dotnet/orms",
         "dotnet/records",
         "dotnet/strings",
