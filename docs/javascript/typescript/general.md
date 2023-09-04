@@ -13,7 +13,7 @@ description: General TypeScript
 
 ### TLDR:
 
-`type` and `interface` can be used to accomplish most of the same things.
+`type` and `interface` are [very similar](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#differences-between-type-aliases-and-interfaces).
 
 For object inheritance, the [TypeScript performance wiki](https://github.com/microsoft/TypeScript/wiki/Performance#preferring-interfaces-over-intersections) recommends using `interface` over `type` intersections for better compile-time performance.
 
