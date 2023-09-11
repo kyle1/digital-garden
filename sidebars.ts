@@ -36,7 +36,7 @@ const sidebars = {
     {
       type: "category",
       label: "Data",
-      items: ["data/json"],
+      items: ["data/database", "data/json"],
     },
     {
       type: "category",
