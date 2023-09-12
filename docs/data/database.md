@@ -3,7 +3,11 @@ title: Database
 description: Database
 ---
 
-# Identity
+# Identifiers
+
+[Ultimate Guide to Identifiers](https://wookieb.pl/guide/identifiers)
+
+[Choosing a Postgres Primary Key](https://supabase.com/blog/choosing-a-postgres-primary-key)
 
 ## ULID
 
